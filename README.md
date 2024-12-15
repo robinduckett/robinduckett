@@ -26,7 +26,7 @@ I'm a software engineer based in Wales with a passion for web3 technologies, gam
 ## 🎮 Projects
 
 - 2021 - Godot FPV Drone Simulator [(Source Code)](https://github.com/robinduckett/QuadCam) [(Play)](https://robinduckett.github.io/godot-drone)
-- Currently building a fan developed version of the game Creatures using Rust / Bevy.
+- Currently building a fan developed version of the game Creatures using Rust / Bevy. [(Source Code)](https://github.com/robinduckett/crust)
 
 ## 📷 Hobbies & Interests
 
