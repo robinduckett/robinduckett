@@ -10,11 +10,6 @@ Based in Cardiff, Wales. 17 years shipping production infrastructure at scale �
 
 **[OneBalance](https://www.onebalance.io/)** (Frontier Research) — Senior Frontend / Senior Full Stack Engineer
 
-- Built the core swap interface, transaction management, and account dashboard (React · TypeScript · viem), delivering cross-chain token swaps
-- Contributing to a TypeScript → Rust backend rewrite with clean architecture / DDD: Solana balance adapter with provider racing, EVM balance client, domain models, and performance benchmarking CI with criterion.rs
-- Built the E2E testing framework from scratch — multi-chain transaction flows, on-chain validation, and smoke tests across dev / staging / production
-- Contributing to cross-chain pricing, intent-based execution across EVM and Solana, and ERC-4337 account abstraction on a NestJS / Fastify monorepo following hexagonal architecture
-
 ## 💻 Tech Stack
 
 - **Languages**: Rust · TypeScript · JavaScript · Node.js · C++
