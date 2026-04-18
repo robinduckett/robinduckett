@@ -1,4 +1,4 @@
-# Robin Lawson-Duckett
+# Robin Duckett
 
 **Senior Software Engineer · Full Stack · Web3 · Rust + TypeScript**
 
