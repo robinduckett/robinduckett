@@ -26,6 +26,7 @@ E-Commerce · Identity / KYC · FinTech · DeFi · Web3 Gaming · Smart TV / Emb
 
 ## 🚀 Open Source
 
+- [userop-explorer](https://github.com/robinduckett/userop-explorer): universal Ethereum calldata decoder TUI/CLI in Bun + TypeScript. Recursively opens multicalls, Safe batches, and ERC-4337 UserOps into a navigable tree with token + USD enrichment
 - [hyprmark](https://github.com/robinduckett/hyprmark): markdown viewer for the Hyprland ecosystem, in C++
 - [crust](https://github.com/robinduckett/crust): Creatures 2 fan remake in Rust / Bevy
 - [node-mpd](https://github.com/robinduckett/node-mpd): Node.js client for the Linux Music Player Daemon
