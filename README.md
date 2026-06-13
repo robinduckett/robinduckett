@@ -22,7 +22,7 @@ Stack: React, TypeScript, viem, Rust, NestJS, Fastify. Working across EVM and So
 
 ## 💼 Sectors
 
-E-Commerce · Identity / KYC · FinTech · DeFi · Web3 Gaming · Smart TV / Embedded
+Identity / KYC · FinTech · DeFi · Web3 Gaming
 
 ## 🚀 Open Source
 
@@ -30,14 +30,12 @@ E-Commerce · Identity / KYC · FinTech · DeFi · Web3 Gaming · Smart TV / Emb
 - [ComfyUI-MVSAM3D-Unofficial](https://github.com/robinduckett/ComfyUI-MVSAM3D-Unofficial): ComfyUI nodes for [MV-SAM3D](https://github.com/devinli123/MV-SAM3D)
 - [hyprmark](https://github.com/robinduckett/hyprmark): markdown viewer for the Hyprland ecosystem, in C++
 - [crust](https://github.com/robinduckett/crust): Creatures 2 fan remake in Rust / Bevy
-- [node-mpd](https://github.com/robinduckett/node-mpd): Node.js client for the Linux Music Player Daemon
 - [godot-drone](https://github.com/robinduckett/godot-drone): FPV drone simulator in Godot. [Play in-browser](https://robinduckett.github.io/godot-drone).
-- [clb-tools](https://github.com/robinduckett/clb-tools): Creatures Labs modding tools
 - [godot-blk-importer](https://github.com/robinduckett/godot-blk-importer): Creatures 3 BLK format importer for Godot
 - [c2ints](https://github.com/robinduckett/c2ints): Creatures 2 engine internals in TypeScript
 - [open-dir-as-window-vscode](https://github.com/robinduckett/open-dir-as-window-vscode): VSCode extension for opening folders in new editor windows from the explorer
 
-Upstream contributions: [ue-mcp](https://github.com/robinduckett/ue-mcp) (Unreal Engine MCP toolkit) and [nah](https://github.com/robinduckett/nah) (safety guard for Claude Code).
+Upstream contributions: [ue-mcp](https://github.com/robinduckett/ue-mcp) (Unreal Engine MCP toolkit).
 
 ## 📷 Hobbies
 
